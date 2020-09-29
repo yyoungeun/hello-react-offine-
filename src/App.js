@@ -1,5 +1,8 @@
 import React from "react";
-import Counter from "./Counter";
+//import EventPractice from "./EventPractice";
+import FuncEventPractice from "./FuncEventPractice";
+//import Counter from "./Counter";
+//import Say from "./Say";
 //import MyComponent from "./MyComponent";
 
 const App = () => {
@@ -8,7 +11,12 @@ const App = () => {
     //   리액트
     // </MyComponent>
 
-    <Counter />
+    //<Counter />
+
+    //<Say />
+
+    //<EventPractice />
+    <FuncEventPractice />
   );
 };
 
