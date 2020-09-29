@@ -1,6 +1,6 @@
 import React from "react";
-//import EventPractice from "./EventPractice";
-import FuncEventPractice from "./FuncEventPractice";
+import EventPractice from "./EventPractice";
+//import FuncEventPractice from "./FuncEventPractice";
 //import Counter from "./Counter";
 //import Say from "./Say";
 //import MyComponent from "./MyComponent";
@@ -15,8 +15,8 @@ const App = () => {
 
     //<Say />
 
-    //<EventPractice />
-    <FuncEventPractice />
+    <EventPractice />
+    //<FuncEventPractice />
   );
 };
 
